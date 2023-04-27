@@ -4,7 +4,7 @@ msgstr "Ein Screenshot einer Website mit AMP."
 
 #: /views/partials/format-visuals/websites.j2:10
 msgid "A screenshot showing amp-sidebar."
-msgstr ""
+msgstr "A screenshot showing amp-sidebar."
 
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
@@ -16,7 +16,7 @@ msgstr "AMP-Markenmaterialien"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
 msgid "AMP Caches & CORS"
-msgstr ""
+msgstr "AMP Caches & CORS"
 
 #: /views/partials/footer.j2:71
 msgid "AMP Conf 2020"
@@ -28,7 +28,7 @@ msgstr "AMP Contributor Summit 2019"
 
 #: /views/partials/banner.j2:5
 msgid "AMP Contributor Summit 2019 Applications Now Open"
-msgstr ""
+msgstr "Bewerbungen für den AMP Contributor Summit 2019 sind jetzt möglich"
 
 #: /views/partials/footer.j2:43
 msgid "AMP Framework"
